@@ -1,2 +1,6 @@
-public class Task {
+import javax.swing.*;
+
+public class Task extends JPanel {
+
+
 }
