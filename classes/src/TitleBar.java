@@ -7,7 +7,7 @@ import java.awt.Color;
 public class TitleBar extends JPanel{
     public TitleBar() {
         this.setPreferredSize(new Dimension(400, 80));
-        this.setBackground(Color.decode("#89D9FE"));
+        this.setBackground(Color.decode("#eedf46"));
 
 //        JFrame frame = new JFrame("Todo List Window");
 //        frame.setSize(500,400);

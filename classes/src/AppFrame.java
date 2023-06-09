@@ -17,6 +17,7 @@ public class AppFrame extends JFrame {
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null); // makes the window pop-up in the middle of screen
         this.setVisible(true);
+        this.setBackground(Color.decode("#eede87"));
 
         title = new TitleBar();
         list = new List();

@@ -7,7 +7,7 @@ public class List extends JPanel {
         layout.setVgap(5);
 
         this.setLayout(layout);
-        //this.setBackground(Color.blue);
+        this.setBackground(Color.decode("#eede87"));
 
     }
 
